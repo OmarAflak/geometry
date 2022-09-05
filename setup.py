@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-    name='point',
+    name='geometry',
     version='1.0',
-    description='Point 2D library',
+    description='geometry library',
     author='Omar Aflak',
     author_email='aflakomar@gmail.com',
-    packages=['point'],
+    packages=['geometry'],
     install_requires=['wheel']
 )
