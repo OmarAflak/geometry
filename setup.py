@@ -6,6 +6,5 @@ setup(
     description='geometry library',
     author='Omar Aflak',
     author_email='aflakomar@gmail.com',
-    packages=['geometry'],
-    install_requires=['wheel']
+    packages=['geometry']
 )
